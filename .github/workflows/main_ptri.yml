@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ptri'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E4C6000C452414FA2DF6340A0E67422 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_441D859658BF481FAA81E7EE3E62F6D4 }}
           package: .
